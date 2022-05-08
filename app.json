@@ -1,7 +1,8 @@
 {
-  "name": "CheemsBot-MD",
+  "name": "KillerBot-MD",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/DGXeon/CheemsBot-MD2",
+  "repository": "https://github.com/Dark-Killer1/killer-md3",
+  "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format",
   "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
