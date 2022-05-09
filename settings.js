@@ -23,7 +23,7 @@ global.APIKeys = {
 //customize settings\\
 global.owner = ['94761905764']
 global.premium = ['94761905764']
-global.ownernomer = '94761239747'
+global.ownernomer = '94767003520'
 global.ownername = 'Sandun Mihiranga'
 global.botname = 'Queen Elina'
 global.footer = 'Saduwa Bot Inc.'
