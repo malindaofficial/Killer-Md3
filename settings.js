@@ -21,18 +21,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94761905764']
-global.premium = ['94761905764']
-global.ownernomer = '94767003520'
-global.ownername = 'Sandun Mihiranga'
-global.botname = 'Queen Elina'
-global.footer = 'Saduwa Bot Inc.'
-global.ig = 'https://github.com/Sandun-Mihiranga2'
-global.region = 'Srilanka , Kurunegala'
-global.sc = 'https://github.com/Sandun-Mihiranga2/Queen-Elina'
-global.myweb = 'wa.me/94761905764'
-global.packname = 'Saduwa Bot'
-global.author = 'Dark Saduwaツ'
+global.owner = ['94759258395']
+global.premium = ['94759258395']
+global.ownernomer = '94759258395'
+global.ownername = 'Malinda Muthunayaka'
+global.botname = 'Maliya'
+global.footer = 'Maliya Bot Inc.'
+global.yt = 'https://youtube.com/channel/UC31NADrRyiAGGi08LlCvuaQ'
+global.region = 'Srilanka , Veyangoda'
+global.fb = 'https://www.facebook.com/profile.php?id=100081464584080'
+global.mywhastapp = 'wa.me/94759258395'
+global.packname = 'Maliya Bot'
+global.author = 'Reail Maliyaツ'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
